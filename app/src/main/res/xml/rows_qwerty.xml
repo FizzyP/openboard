@@ -23,18 +23,6 @@
 >
     <include
         latin:keyboardLayout="@xml/key_styles_common" />
-    <switch>
-      <case
-          latin:numberRowEnabled="true"
-      >
-        <Row
-            latin:keyWidth="10%p"
-          >
-          <include
-              latin:keyboardLayout="@xml/rowkeys_symbols1" />
-        </Row>
-      </case>
-    </switch>
     <Row
         latin:keyWidth="10%p"
     >
@@ -64,4 +52,16 @@
     </Row>
     <include
         latin:keyboardLayout="@xml/row_qwerty4" />
+    <switch>
+        <case
+            latin:numberRowEnabled="true"
+            >
+            <Row
+                latin:keyWidth="10%p"
+                >
+                <include
+                    latin:keyboardLayout="@xml/rowkeys_symbols1" />
+            </Row>
+        </case>
+    </switch>
 </merge>
