@@ -402,26 +402,26 @@ public final class KeyboardTextsTable {
         // U+2153: "⅓" VULGAR FRACTION ONE THIRD
         // U+00BC: "¼" VULGAR FRACTION ONE QUARTER
         // U+215B: "⅛" VULGAR FRACTION ONE EIGHTH
-        /* morekeys_symbols_1 */ "\u00B9,\u00BD,\u2153,\u00BC,\u215B",
+        /* morekeys_symbols_1 */ "(",
         // U+00B2: "²" SUPERSCRIPT TWO
         // U+2154: "⅔" VULGAR FRACTION TWO THIRDS
-        /* morekeys_symbols_2 */ "\u00B2,\u2154",
+        /* morekeys_symbols_2 */ ")",
         // U+00B3: "³" SUPERSCRIPT THREE
         // U+00BE: "¾" VULGAR FRACTION THREE QUARTERS
         // U+215C: "⅜" VULGAR FRACTION THREE EIGHTHS
-        /* morekeys_symbols_3 */ "\u00B3,\u00BE,\u215C",
+        /* morekeys_symbols_3 */ "+",
         // U+2074: "⁴" SUPERSCRIPT FOUR
-        /* morekeys_symbols_4 */ "\u2074",
+        /* morekeys_symbols_4 */ "-",
         // U+215D: "⅝" VULGAR FRACTION FIVE EIGHTHS
-        /* morekeys_symbols_5 */ "\u215D",
-        /* morekeys_symbols_6 */ EMPTY,
+        /* morekeys_symbols_5 */ "*",
+        /* morekeys_symbols_6 */ "/",
         // U+215E: "⅞" VULGAR FRACTION SEVEN EIGHTHS
-        /* morekeys_symbols_7 */ "\u215E",
-        /* morekeys_symbols_8 */ EMPTY,
-        /* morekeys_symbols_9 */ EMPTY,
+        /* morekeys_symbols_7 */ "<",
+        /* morekeys_symbols_8 */ "=",
+        /* morekeys_symbols_9 */ ">",
         // U+207F: "ⁿ" SUPERSCRIPT LATIN SMALL LETTER N
         // U+2205: "∅" EMPTY SET
-        /* morekeys_symbols_0 */ "\u207F,\u2205",
+        /* morekeys_symbols_0 */ "$",
         /* morekeys_am_pm */ "!fixedColumnOrder!2,!hasLabels!,!text/keylabel_time_am,!text/keylabel_time_pm",
         /* keyspec_settings */ "!icon/settings_key|!code/key_settings",
         /* keyspec_shortcut */ "!icon/shortcut_key|!code/key_shortcut",
