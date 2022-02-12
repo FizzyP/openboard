@@ -53,18 +53,15 @@
         latin:keyHintLabel="/" />
     <Key
         latin:keySpec="!text/keyspec_symbols_7"
-        latin:additionalMoreKeys="!text/additional_morekeys_symbols_7"
-        latin:moreKeys="!text/morekeys_symbols_7"
+        latin:additionalMoreKeys="&lt;,&#x2264;"
         latin:keyHintLabel="&lt;" />
     <Key
         latin:keySpec="!text/keyspec_symbols_8"
-        latin:additionalMoreKeys="!text/additional_morekeys_symbols_8"
-        latin:moreKeys="!text/morekeys_symbols_8"
+        latin:additionalMoreKeys="=,&#x2260;"
         latin:keyHintLabel="=" />
     <Key
         latin:keySpec="!text/keyspec_symbols_9"
-        latin:additionalMoreKeys="!text/additional_morekeys_symbols_9"
-        latin:moreKeys="!text/morekeys_symbols_9"
+        latin:additionalMoreKeys="&gt;,&#x2265;"
         latin:keyHintLabel="&gt;" />
     <Key
         latin:keySpec="!text/keyspec_symbols_0"
