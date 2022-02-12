@@ -23,27 +23,27 @@
 >
     <Key
         latin:keySpec="!text/keyspec_q"
-        latin:keyHintLabel="&#x1F600;"
-        latin:additionalMoreKeys="&#x1F600;,&#x1F600;"
+        latin:keyHintLabel="&#x1F44D;"
+        latin:additionalMoreKeys="&#x1F44D;,&#x1F44E;,&#x1F44A;,&#x1F64F;,&#x1F4AA;"
         latin:moreKeys="!text/morekeys_q" />
     <Key
         latin:keySpec="!text/keyspec_w"
-        latin:keyHintLabel="&#x1F606;"
-        latin:additionalMoreKeys="&#x1F606;,&#x1F923;"
+        latin:keyHintLabel="&#x1F600;"
+        latin:additionalMoreKeys="&#x1F600;,&#x1F601;,&#x1F606;,&#x1F923;"
         latin:moreKeys="!text/morekeys_w" />
     <Key
         latin:keySpec="e"
-        latin:keyHintLabel="&#x1F92E;"
-        latin:additionalMoreKeys="&#x1F92E;,&#x1F922;"
-        latin:moreKeys="!text/morekeys_e" />
-    <Key
-        latin:keySpec="r"
         latin:keyHintLabel="&#x1F621;"
         latin:additionalMoreKeys="&#x1F621;,&#x1F92C;"
         latin:moreKeys="!text/morekeys_r" />
     <Key
+        latin:keySpec="r"
+        latin:keyHintLabel="&#x1F92E;"
+        latin:additionalMoreKeys="&#x1F92E;,&#x1F922;"
+        latin:moreKeys="!text/morekeys_e" />
+    <Key
         latin:keySpec="t"
         latin:keyHintLabel="&#x1F92F;"
-        latin:additionalMoreKeys="&#x1F92F;,&#x1F633;"
+        latin:additionalMoreKeys="&#x1F92F;,&#x1F633;,&#x1F440;"
         latin:moreKeys="!text/morekeys_t" />
 </merge>

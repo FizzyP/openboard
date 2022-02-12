@@ -29,12 +29,12 @@
     <Key
         latin:keySpec="u"
         latin:keyHintLabel="&#x1F346;"
-        latin:additionalMoreKeys="&#x1F346;,&#x1F351;,&#x1FAD2;"
+        latin:additionalMoreKeys="&#x1F346;,&#x1F351;,&#x1FAD2;,&#x1F952;,&#x1F32E;,&#x1F34C;"
         latin:moreKeys="!text/morekeys_u" />
     <Key
         latin:keySpec="i"
-        latin:keyHintLabel="&#x1F621;"
-        latin:additionalMoreKeys="&#x1F621;,&#x1F92C;"
+        latin:keyHintLabel="&#x1F1FA;&#x1F1F8;"
+        latin:additionalMoreKeys="&#x1F1FA;&#x1F1F8;,&#x1F95E;,&#x1F354;,&#x1F355;,&#x1F96A;,&#x1F9C2;,&#x26F3;,&#x1F94C;"
         latin:moreKeys="!text/morekeys_i" />
     <Key
         latin:keySpec="o"
