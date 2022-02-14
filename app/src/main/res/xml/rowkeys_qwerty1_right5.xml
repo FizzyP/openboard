@@ -23,8 +23,8 @@
 >
     <Key
         latin:keySpec="!text/keyspec_y"
-        latin:keyHintLabel="&#x1F937;&#x200D;&#x2642;&#xFE0F;"
-        latin:additionalMoreKeys="&#x1F937;&#x200D;&#x2642;&#xFE0F;,&#x1F926;&#x200D;&#x2642;&#xFE0F;"
+        latin:keyHintLabel="&#x1F921;"
+        latin:additionalMoreKeys="&#x1F921;,&#x1F4A9;"
         latin:moreKeys="!text/morekeys_y" />
     <Key
         latin:keySpec="u"
