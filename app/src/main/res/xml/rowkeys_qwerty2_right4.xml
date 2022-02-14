@@ -29,7 +29,7 @@
     <Key
         latin:keySpec="j"
         latin:keyHintLabel="~"
-        latin:additionalMoreKeys="~"
+        latin:additionalMoreKeys="~,JSON"
         latin:moreKeys="!text/morekeys_j" />
     <Key
         latin:keySpec="k"
@@ -39,6 +39,6 @@
     <Key
         latin:keySpec="l"
         latin:keyHintLabel="|"
-        latin:additionalMoreKeys="|"
+        latin:additionalMoreKeys="|,lol,lmao"
         latin:moreKeys="!text/morekeys_l" />
 </merge>

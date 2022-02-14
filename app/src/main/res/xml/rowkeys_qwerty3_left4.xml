@@ -24,12 +24,12 @@
     <Key
         latin:keySpec="z"
         latin:keyHintLabel="\\"
-        latin:additionalMoreKeys="\\"
+        latin:additionalMoreKeys="\\,ZOMG"
         latin:moreKeys="!text/morekeys_z" />
     <Key
         latin:keySpec="!text/keyspec_x"
         latin:keyHintLabel=";"
-        latin:additionalMoreKeys=";"
+        latin:additionalMoreKeys=";,XML"
         latin:moreKeys="!text/morekeys_x" />
     <Key
         latin:keySpec="c"

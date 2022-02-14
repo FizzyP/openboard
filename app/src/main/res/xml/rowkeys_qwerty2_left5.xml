@@ -39,7 +39,7 @@
     <Key
         latin:keySpec="f"
         latin:keyHintLabel="[]"
-        latin:additionalMoreKeys="[,]" />
+        latin:additionalMoreKeys="[,],fml" />
     <Key
         latin:keySpec="g"
         latin:keyHintLabel="{}"

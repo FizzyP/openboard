@@ -29,7 +29,7 @@
     <Key
         latin:keySpec="!text/keyspec_w"
         latin:keyHintLabel="&#x1F600;"
-        latin:additionalMoreKeys="&#x1F600;,&#x1F601;,&#x1F606;,&#x1F923;"
+        latin:additionalMoreKeys="&#x1F600;,&#x1F601;,&#x1F606;,&#x1F923;,wasf"
         latin:moreKeys="!text/morekeys_w" />
     <Key
         latin:keySpec="e"
@@ -39,7 +39,7 @@
     <Key
         latin:keySpec="r"
         latin:keyHintLabel="&#x1F92E;"
-        latin:additionalMoreKeys="&#x1F92E;,&#x1F922;"
+        latin:additionalMoreKeys="&#x1F92E;,&#x1F922;,rofl"
         latin:moreKeys="!text/morekeys_e" />
     <Key
         latin:keySpec="t"
