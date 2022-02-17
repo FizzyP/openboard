@@ -34,12 +34,12 @@
     <Key
         latin:keySpec="e"
         latin:keyHintLabel="&#x1F621;"
-        latin:additionalMoreKeys="&#x1F621;,&#x1F92C;,&#x1F92E;,&#x1F922;"
+        latin:additionalMoreKeys="&#x1F621;,&#x1F92C;,&#x1F92E;,&#x1F922;,&#x2639;,&#x1F622;"
         latin:moreKeys="!text/morekeys_r" />
     <Key
         latin:keySpec="r"
         latin:keyHintLabel="&#x1F92F;"
-        latin:additionalMoreKeys="&#x1F92F;,&#x1F633;,&#x1F440;,rofl"
+        latin:additionalMoreKeys="&#x1F92F;,&#x1F633;,&#x1F440;,&#x1F609;,&#x1F61C;,&#x1F97A;"
         latin:moreKeys="!text/morekeys_e" />
     <Key
         latin:keySpec="t"
