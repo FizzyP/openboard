@@ -24,7 +24,7 @@
     <Key
         latin:keySpec="z"
         latin:keyHintLabel="\\"
-        latin:additionalMoreKeys="\\,ZOMG"
+        latin:additionalMoreKeys="\\"
         latin:moreKeys="!text/morekeys_z" />
     <Key
         latin:keySpec="!text/keyspec_x"

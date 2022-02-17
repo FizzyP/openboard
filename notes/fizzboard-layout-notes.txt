@@ -29,3 +29,13 @@ ALT
 ` & | \ : ; ! ?
 
 " '
+
+-------------
+
+Need to add these emojis:
+wink
+frown
+cry
+sad
+heart
+

@@ -33,9 +33,8 @@
         <default>
             <Key
                 latin:keySpec="!text/keyspec_period"
-                latin:keyHintLabel="!text/keyhintlabel_period"
-                latin:keyLabelFlags="hasPopupHint|hasShiftedLetterHint"
-                latin:moreKeys="!text/morekeys_period"
+                latin:keyHintLabel="&#8230;"
+                latin:additionalMoreKeys="&#8230;"
                 latin:backgroundType="functional" />
         </default>
     </switch>
